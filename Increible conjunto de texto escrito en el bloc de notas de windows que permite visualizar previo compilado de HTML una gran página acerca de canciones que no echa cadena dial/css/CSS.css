@@ -1,0 +1,114 @@
+html {
+    background: url("../imagenes/44.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+.cabeza {
+font-size: 70pt;
+color: red;
+background-image: url("../imagenes/4.jpg");
+text-align: center;
+height: 250px;
+padding-top: 1px;
+}
+.cabocio{
+margin-top: 1%;
+  border: black 2px solid;
+  width: 27%;
+  float: right;
+  margin-right: 1%;
+}
+
+.mario{
+  margin-top: 10px;
+}
+
+.pooter{
+  margin-top: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+  width: 66.5%;
+  border: black 2px solid;
+  float: left;
+  text-align: justify;
+
+}
+
+ .pooter img {
+  border: black 2px dashed;
+  border-radius: 20px;
+  margin: 5px;
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+
+div.cabocio {
+  border-radius: 10px;
+  border:  groove 2px;
+  background-color: white;
+}
+
+div.pooter {
+  border-radius: 20px;
+  border: groove 20px yellow;
+  background-color: grey;
+}
+
+.pie
+{
+clear: both;
+background-color: black;
+text-align: center;
+min-height: 100%;
+margin: 0 auto -4em;
+}
+
+.pie p{
+  color: white;
+  font-size: 10pt;
+}
+
+.pie img {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+}
+p.mario {
+  padding: 10px;
+  font-size: 12pt;
+  text-align: justify;
+}
+p{
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+  color: green;
+  font-size: 17pt;
+}
+a:hover{
+	font-size: 17pt;
+	color: red;}
+  div a {
+    align-self: center;
+  }
+
+  #e {
+    text-align: center;
+    text-decoration: none;
+  }
+
+  #o{
+  	text-align: center;
+  	text-decoration: none;
+  	font-size: 18pt;
+  	color: white;
+  }
+
+  .cabocio {
+    text-align: justify;
+  }
